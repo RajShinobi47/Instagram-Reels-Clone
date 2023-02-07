@@ -3,4 +3,4 @@ This the Instagram Reels Clone project which I made using ReactJs and Firebase f
 
 Below is the deployed app link. Check it out now 👇
 
-                                   https://insta-reels-clone.netlify.app/
+                                   https://insta-reels-clone.netlify.app/login
